@@ -3,7 +3,7 @@
     "description": "xxd-eleme-openapi/eleme-openapi-sdk",
     "autoload": {
         "psr-4": {
-            "XxdElemeOpenapi\\ElemeOpenapiSdk\\": "src/"
+            "ElemeOpenApi\\": "src/ElemeOpenApi"
         }
     },
     "authors": [
