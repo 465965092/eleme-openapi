@@ -1,23 +1,16 @@
 {
-  "name": "xxd-eleme-openapi/eleme-openapi-sdk",
-  "description": "eleme-openapi-php-sdk",
-  "license": "MIT",
-  "keywords": [
-    "eleme"
-  ],
-  "version": "1.68.0",
-  "authors": [
-    {
-      "name": "tangyan",
-      "email": "open.shop@ele.me"
-    }
-  ],
-  "require": {
-      "php": ">=5.4.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "ElemeOpenApi\\": "src/ElemeOpenApi"
-    }
-  }
+    "name": "xxd-eleme-openapi/eleme-openapi-sdk",
+    "description": "xxd-eleme-openapi/eleme-openapi-sdk",
+    "autoload": {
+        "psr-4": {
+            "XxdElemeOpenapi\\ElemeOpenapiSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xxd",
+            "email": "465965092@qq.com"
+        }
+    ],
+    "require": {}
 }
